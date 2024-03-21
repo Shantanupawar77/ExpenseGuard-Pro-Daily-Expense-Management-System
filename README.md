@@ -20,7 +20,6 @@ ExpenseGuard Pro is a powerful web-based application designed to simplify daily 
 - JavaScript/jQuery: Client-side scripting for dynamic interactivity and user-friendly features.
 - PHPMailer: Library for sending emails from PHP applications, used for automated expense report delivery.
 ## Contributors:
-[Shantanu Pawar]
-[github.com/Shantanupawar77]
+- [Shantanu Pawar](https://github.com/Shantanupawar77)
 ## License:
 This project is licensed under the MIT License.
