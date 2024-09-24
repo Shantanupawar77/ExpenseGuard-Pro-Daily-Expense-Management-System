@@ -23,7 +23,7 @@ ExpenseGuard Pro is a powerful web-based application designed to simplify daily 
 - [Shantanu Pawar](https://github.com/Shantanupawar77)
 
 # Demo 
- The application is hosted at http://expensemanag7.infinityfreeapp.com
+ The application is hosted at https://expensemanag7.infinityfreeapp.com
  
 ### License:
 This project is licensed under the MIT License.
